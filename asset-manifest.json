@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HEM2022/static/css/main.4651f6ed.css",
+    "main.js": "/HEM2022/static/js/main.5aa1987c.js",
+    "static/js/787.2a4cd66a.chunk.js": "/HEM2022/static/js/787.2a4cd66a.chunk.js",
+    "index.html": "/HEM2022/index.html",
+    "main.4651f6ed.css.map": "/HEM2022/static/css/main.4651f6ed.css.map",
+    "main.5aa1987c.js.map": "/HEM2022/static/js/main.5aa1987c.js.map",
+    "787.2a4cd66a.chunk.js.map": "/HEM2022/static/js/787.2a4cd66a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4651f6ed.css",
+    "static/js/main.5aa1987c.js"
+  ]
+}
